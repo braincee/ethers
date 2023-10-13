@@ -19,8 +19,9 @@
   },
   "homepage": "https://github.com/braincee/ethers#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "ethereumjs-wallet": "^1.0.2",
-    "ethers": "^6.7.1",
+    "ethers": "^5.7.2",
     "web3": "^4.1.2"
   }
 }
